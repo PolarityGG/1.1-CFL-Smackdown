@@ -1,2 +1,2 @@
-# CFLSmackdownMelee
-Broadcast overlays for CFL Smackdown Melee
+# CFL Smackdown
+Broadcast overlays for CFL Smackdown
